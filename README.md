@@ -52,7 +52,7 @@ Current Maintainers
 -------------------
 
 - [Pavel](https://github.com/korontari)
-- Co-maintainers are welcome.
+- Additional maintainers are welcome.
 
 Credits
 -------
