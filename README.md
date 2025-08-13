@@ -1,17 +1,27 @@
 Masonry Gallery
 ===============
 
-Masonry Gallery is a Views style plugin that allows to display images layed out in traditional masonry grid. The module distributes images in columns by their height so that they fill available space as evenly as possible with minimum jags at the bottom of the gallery. At the same time it tries to keep left to right visible order of the images. Here is a short list of features:
+Masonry Gallery is a Views style plugin that displays images in a traditional
+masonry grid layout. 
+
+The module arranges images in columns based on their height, filling the
+available space as evenly as possible with minimum gaps at the bottom of the 
+gallery. At the same time, it tries to preserve left-to-right visual order of 
+the images. 
+
+Technically this gallery uses CSS for the basic column layout and JavaScript 
+to control the image order.
+
+Features
+========
 
 - Responsive masonry grid layout for images.
 - Optimised image loading (lazy loading).
-- Captions that either placed statically below the image or on mouse hover over the image bottom.
-- Ability to tweak caption style without writing extra CSS.
-- Ability to use rich text for captions (by adding text fields in views).
+- Captions placed either statically below the image or shown on mouse hover over the image bottom.
+- Ability to adjust caption style without writing additional CSS.
+- Ability to use rich text for captions (by adding text fields in Views).
 - Several loader icon styles to choose from.
-- Ability to show a low resolution preview while image is being loaded.
-
-Technically this gallery utilizes CSS for basic columns layout and Javascript to control the order of images.
+- Option to display a low resolution preview while the full image is loading.
 
 Installation
 ------------
