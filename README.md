@@ -13,7 +13,7 @@ Technically this gallery uses CSS for the basic column layout and JavaScript
 to control the image order.
 
 Features
-========
+--------
 
 - Responsive masonry grid layout for images.
 - Optimised image loading (lazy loading).
